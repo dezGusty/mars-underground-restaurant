@@ -14,3 +14,7 @@ Welcome to the best restaurant on the red plannet and the most exotic place in t
 
 - Hyper Bar:  
 ![Mars Underground Restaurant](./images/mars-underground-restaurant.jpg)
+
+## Copyright
+
+Copyright: The Mars Project Team (2021)
